@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Teja</h1>
-<h3 align="center">A versatile programmer and tech enthusiast, skill in working with Java and Python programming languages</h3>
+<h3 align="center">A versatile programmer and tech enthusiast, skill in working with Java and Python </h3>
 
 - 🔭 I’m ready to collaborate for Android,Machine Learning Project
 
