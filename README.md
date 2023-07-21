@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Teja</h1>
 <h3 align="center">A versatile programmer and tech enthusiast, skill in working with Java and Python programming languages</h3>
 
+- 🔭 I’m ready to collaborate for Android,Machine Learning Project
+
+- 🌱 I’m currently learning Machine Learning
+
+- 💬 Ask me about Android , ML
+
+- 📫 How to reach me **chinithateja@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/teja chinitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="teja chinitha" height="30" width="40" /></a>
