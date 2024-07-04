@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Teja</h1>
-<h3 align="center">A versatile programmer and tech enthusiast, skill in working with Java and Python </h3>
+<h3 align="center">A versatile programmer and tech enthusiast, skill in working with Java,Python,SpringBoot,React js </h3>
 
-- 🔭 I’m ready to collaborate for Android,Machine Learning Project
+- 🔭 I’m ready to collaborate for Full Stack Development,Mobile Application Development
 
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Front-End Frameworks
 
-- 💬 Ask me about Android , ML
+- 💬 Ask me about Java,SpringBoot,React js,Android
 
 - 📫 How to reach me **chinithateja@gmail.com**
 <h3 align="left">Connect with me:</h3>
