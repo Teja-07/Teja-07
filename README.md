@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Teja</h1>
 <h3 align="center">A versatile programmer and tech enthusiast, skill in working with Java,Python,SpringBoot,Angular js </h3>
 
-- 🔭 I’m ready to collaborate for Full Stack Development,Mobile Application Development
-
+- 🔭 I’m ready to collaborate for Full Stack Development,Machine Learning
 - 🌱 I’m currently learning Front-End Frameworks
 
 - 💬 Ask me about Java,SpringBoot,React js,Angular js
